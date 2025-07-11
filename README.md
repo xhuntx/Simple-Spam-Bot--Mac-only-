@@ -9,3 +9,5 @@ Download the SpamBot.zip file from [Terminal File+zip Folder](https://github.com
 Don't click move to trash (Apple can't scan it, no, it's not a virus, the next step will make it run)
 ### Step Three
 Go into System Settings -> Privacy and Security -> Scroll to Security -> Click allow anyways -> Then open
+# IOS App (**BETA**)
+The IOS app version of this program is here https://testflight.apple.com/join/hHgK8xk3 with constant updates 
