@@ -5,7 +5,7 @@ Text = input("What do you want to spam? ")
 try:
   times= int(input("How many times? (input a number) ")) 
 except ValueError:
-    print("❌ Input a valid number")
+    print("Input a valid number")
     exit()
 
 check = input("Press Enter/Return to execute...")
@@ -15,4 +15,4 @@ time.sleep(5)
 for i in range(times):
     pg.write(Text)
     pg.press("Enter")
-print(f"✅ Done! Sent {Text} ",f"{times} times")
+print(f"Done! Sent {Text} ",f"{times} times")
